@@ -1,0 +1,7 @@
+
+spring:
+  thymeleaf:
+    prefix: classpath:/templates/html/
+    cache: true
+  mvc:
+    static-path-pattern: /**
